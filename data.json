@@ -16,7 +16,7 @@
           "items": [
             "Túnica íntima",
             "Túnica media",
-            "Adventicia"
+            "Adventicia",
             "Las arterias presentan paredes más gruesas con capas musculares y elásticas prominentes, mientras que las venas muestran menor grosor, luz más amplia, y válvulas para evitar el reflujo."
           ]
         },
@@ -223,8 +223,8 @@
     },
     {
       "id": "referencias-vasos",
-      "title": "Referencias Vasos Sanguíneos",
-      "description": "Referencias bibliográficas utilizadas para la creación del contenido sobre vasos sanguíneos.",
+      "title": "Referencias",
+      "description": "Referencias bibliográficas utilizadas para la creación de la página web.",
       "sections": [
         {
           "id": "referencias-bibliograficas",
@@ -287,5 +287,6 @@
 
     
   ]}
+
 
 
