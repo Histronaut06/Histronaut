@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": "vasossanguineos",
-      "title": " Vasos sanguíneos",
+      "title": " Vasos Sanguíneos",
       "description": "Histologías de los vasos sanguíneos.",
       "sections": [
         {
@@ -22,9 +22,10 @@
         },
         {
           "id": "arteria-elastica",
-          "title": "Arteria elástica",
+          "title": "Arteria Elástica",
           "content": [
-            "Las arterias elásticas presentan una túnica media con numerosas láminas elásticas que se intercalan con el músculo liso. Para soportar las presiones altas en la adventicia encontramos vasa vasorum."
+            "Las arterias elásticas presentan una túnica media con numerosas láminas elásticas que se intercalan con el músculo liso. Para soportar las presiones altas en la adventicia encontramos los vasa vasorum, que son pequeños vasos sanguíneos que irrigan las paredes de los vasos grandes. Su función es nutrir las capas externas de la pared del vaso (especialmente la túnica adventicia y la parte externa de la túnica media
+            ) ."
           ],
           "image": [
             "venas arterias-01.png"
@@ -34,7 +35,7 @@
           "id": "arteria-muscular",
           "title": "Arteria Muscular",
           "content": [
-            "Las arterias musculares tienen una túnica media con varias capas de músculo liso, poseen una membrana elástica interna definida y menos fibras elásticas en comparación con las arterias elásticas."
+            "Las arterias musculares tienen una túnica media con varias capas de músculo liso. Poseen una membrana elástica interna definida y menos fibras elásticas en comparación con las arterias elásticas."
           ],
           "image": "venas arterias-02.png"
         },
@@ -42,7 +43,7 @@
           "id": "arteriolas",
           "title": "Arteriolas",
           "content": [
-            "Las arteriolas poseen una túnica media con una sola capa de células de músculo liso, no poseen membranas elásticas definidas. La función de las arteriolas es regular la resistencia periférica y controlar el flujo de sangre hacia los capilares."
+            "Las arteriolas poseen una túnica media con una sola capa de células de músculo liso y no presentan membranas elásticas definidas. Su función es regular la resistencia periférica y controlar el flujo de sangre hacia los capilares."
           ],
           "image": "venas arterias-05.png"
         },
@@ -50,7 +51,7 @@
           "id": "venas",
           "title": "Venas",
           "content": [
-            "Las venas presentan una túnica media más delgada y una adventicia mucho más gruesa. Poseen tejido conectivo abundante y escasas fibras elásticas. Las venas se caracterizan por tener válvulas endoteliales que previenen el reflujo de la sangre."
+            "Las venas presentan una túnica media más delgada y una adventicia mucho más gruesa. Poseen abundante tejido conectivo y escasas fibras elásticas. Se caracterizan por tener válvulas endoteliales, que son pliegues de la túnica intima, formadas principalmente por endotelio y una fina capa de tejido conectivo fibroelástico que previenen el reflujo de la sangre."
           ],
           "image": [
             "venas arterias-04.png",
@@ -87,18 +88,18 @@
             "Los aneurismas son dilataciones anormales localizadas en la pared de un vaso sanguíneo (predominantemente en las arterias). Esta lesión se produce cuando algunas de las capas de la pared arterial (con mayor frecuencia la túnica media) se debilita, lo que permite que el vaso se expanda en forma de globo.",
             "Los aneurismas pueden crecer sin causar ningún síntoma, lo cual los vuelve sumamente peligrosos, ya que, si se rompen, pueden provocar una hemorragia interna grave y potencialmente mortal.",
             "A menudo se detectan mediante estudios de imágenes como ecografías abdominales, tomografías computarizadas, resonancias magnéticas o angiografías.",
-            "Existen varios tipos de aneurismas entre ellos están:"
+            "Existen varios tipos de aneurismas entre ellos:"
           ],
           "items": [
-            "Falsos aneurismas: estos también conocidos como seudoaneurismas, se presentan cuando existe una ruptura parcial del vaso sanguíneo pero la sangre queda contenida por los tejidos que lo rodean.",
-            "Aneurismas disecantes: toman este nombre debido a que ocurre una separación de sus capas internas lo que obstruye el flujo de la sangre y forma un canal dentro de la pared del vaso sanguíneo.",
-            "Aneurismas verdaderos: estos aneurismas afectan a todas las capas del vaso sanguíneo (íntima, media y adventicia)."
+            "Falsos aneurismas: también conocidos como seudoaneurismas, se presentan cuando existe una ruptura parcial del vaso sanguíneo, pero la sangre queda contenida por los tejidos que lo rodean.",
+            "Aneurismas disecantes: reciben este nombre porque ocurre una separación de las capas  internas del vaso, lo que obstruye el flujo sanguíneo y forma un canal dentro de la pared del vaso del mismo.",
+            "Aneurismas verdaderos: afectan a todas las capas del vaso sanguíneo (íntima, media y adventicia)."
           ],
           "image": "ANEURISA.jpg"
         },
         {
           "id": "localizaciones-aneurismas",
-          "title": "Localizaciones frecuentes y sus causas",
+          "title": "Localizaciones y etiologías frecuentes",
           "content": [
             "Los aneurismas pueden presentarse en diferentes localizaciones del sistema vascular, cada una con sus características particulares y factores de riesgo asociados."
           ],
@@ -112,21 +113,21 @@
     },
     {
       "id": "ateroma",
-      "title": "Placa de ateroma",
+      "title": "Placa de Ateroma",
       "description": "Lesión característica de la ateroesclerosis",
       "sections": [
         {
           "id": "introduccion",
           "title": "Introducción",
           "content": [
-            "La placa de ateroma es una acumulación de grasas, células inflamatorias, colesterol y tejido fibroso en la pared interna de las arterias. Esta lesión es característica de la ateroesclerosis, una enfermedad crónica que endurece las arterias y estrecha su luz, dificultando el flujo sanguíneo a través de ellas.",
-            "Las causas de esta enfermedad son principalmente factores como el colesterol elevado (LDL), hipertensión arterial de larga data, tabaquismo, diabetes, sedentarismo y obesidad. Todos estos factores dañan el endotelio de las arterias y favorecen el depósito de lípidos.",
-            "Con el pasar de los años la placa crece y puede romperse. Al romperse forma un coágulo que bloquea el vaso, lo que provoca eventos graves dependiendo de en dónde esté situada la placa de ateroma."
+            "La placa de ateroma es una acumulación de grasa, células inflamatorias, colesterol y tejido fibroso en la pared interna de las arterias. Esta lesión es característica de la ateroesclerosis, una enfermedad crónica que endurece las arterias y estrecha su luz, dificultando el flujo sanguíneo a través de ellas.",
+            "Las causas de esta enfermedad son principalmente factores como el colesterol elevado (LDL), la hipertensión arterial de larga data, el tabaquismo, la diabetes, el sedentarismo y la obesidad. Todos estos factores dañan el endotelio de las arterias y favorecen el depósito de lípidos.",
+            "Con el paso de los años la placa crece y puede romperse. Al romperse forma un coágulo que bloquea la luz del vaso, lo que provoca eventos graves dependiendo de la localización de la placa de ateroma."
           ]
         },
         {
           "id": "localizaciones-ateroma",
-          "title": "Localizaciones Frecuentes y sus causas",
+          "title": "Localizaciones y etiologías frecuentes",
           "content": [
             "La placa de ateroma puede desarrollarse en diferentes localizaciones arteriales, siendo más frecuente en arterias coronarias, carótidas, cerebrales y de extremidades inferiores."
           ],
@@ -192,7 +193,7 @@
         },
         {
           "id": "fisio",
-          "title": "Lista de Fisiopatología",
+          "title": "Estadios fisiopatológicos",
           "content": [
             "Resumen gráfico del proceso fisiopatológico completo de la formación de la placa de ateroma."
           ],
@@ -265,7 +266,7 @@
           "id": "proximamente",
           "title": "Estamos estudiando para ti",
           "content": [
-            "Continuamos investigando y recopilando información para ampliar nuestro atlas anatómico."
+            "Continuamos investigando y recopilando información para ampliar nuestro sitio web."
           ],
           "items": [
             "Nuevas variantes anatómicas",
@@ -287,6 +288,7 @@
 
     
   ]}
+
 
 
 
