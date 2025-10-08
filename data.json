@@ -275,6 +275,37 @@
           "image": "Investigando.gif"
         }
       ]
+    },
+    {
+  "id": "001",
+  "title": "El Schnauzer: un pequeño guardián de gran corazón",
+  "description": "Artículo breve sobre el Schnauzer, una raza alemana conocida por su inteligencia, energía y lealtad.",
+  "sections": [
+    {
+      "id": "001-01",
+      "title": "Características generales del Schnauzer",
+      "content": [
+        "El Schnauzer es una raza canina originaria de Alemania, reconocida por su característica barba y cejas pobladas que le dan una expresión alerta e inteligente. Existen tres tamaños: miniatura, estándar y gigante, todos compartiendo un temperamento leal, valiente y protector.",
+        "A pesar de su apariencia elegante, el Schnauzer es un perro enérgico y curioso, ideal para familias activas. Su inteligencia facilita el adiestramiento, aunque también requiere estimulación mental constante para evitar el aburrimiento. Es un excelente guardián, afectuoso con los suyos pero reservado con extraños.",
+        "De pelaje duro y doble capa, necesita cepillado frecuente y cortes regulares. Con buena socialización y cuidados, el Schnauzer se convierte en un compañero fiel, vivaz y noble, capaz de llenar cualquier hogar de alegría y protección."
+      ],
+      "items": [
+        "Origen: Alemania",
+        "Tamaños: miniatura, estándar y gigante",
+        "Temperamento: leal, protector y valiente"
+      ],
+      "image": "schnauzer.png"
     }
   ]
 }
+
+
+
+
+
+
+
+
+
+    
+  ]}
