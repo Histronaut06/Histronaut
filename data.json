@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": "vasossanguineos",
-      "title": " Vasos Sanguíneos",
+      "title": "Vasos Sanguíneos",
       "description": "Histologías de los vasos sanguíneos.",
       "sections": [
         {
@@ -26,9 +26,7 @@
           "content": [
             "Las arterias elásticas presentan una túnica media con numerosas láminas elásticas que se intercalan con el músculo liso. Para soportar las presiones altas en la adventicia encontramos los vasa vasorum, que son pequeños vasos sanguíneos que irrigan las paredes de los vasos grandes. Su función es nutrir las capas externas de la pared del vaso (especialmente la túnica adventicia y la parte externa de la túnica media)."
           ],
-          "image": [
-            "venas arterias-01.png"
-          ]
+          "image": ["venas_arterias-01.png"]
         },
         {
           "id": "arteria-muscular",
@@ -36,7 +34,7 @@
           "content": [
             "Las arterias musculares tienen una túnica media con varias capas de músculo liso. Poseen una membrana elástica interna definida y menos fibras elásticas en comparación con las arterias elásticas."
           ],
-          "image": "venas arterias-02.png"
+          "image": ["venas_arterias-02.png"]
         },
         {
           "id": "arteriolas",
@@ -44,18 +42,15 @@
           "content": [
             "Las arteriolas poseen una túnica media con una sola capa de células de músculo liso y no presentan membranas elásticas definidas. Su función es regular la resistencia periférica y controlar el flujo de sangre hacia los capilares."
           ],
-          "image": "venas arterias-05.png"
+          "image": ["venas_arterias-05.png"]
         },
         {
           "id": "venas",
           "title": "Venas",
           "content": [
-            "Las venas presentan una túnica media más delgada y una adventicia mucho más gruesa. Poseen abundante tejido conectivo y escasas fibras elásticas. Se caracterizan por tener válvulas endoteliales, que son pliegues de la túnica intima, formadas principalmente por endotelio y una fina capa de tejido conectivo fibroelástico que previenen el reflujo de la sangre."
+            "Las venas presentan una túnica media más delgada y una adventicia mucho más gruesa. Poseen abundante tejido conectivo y escasas fibras elásticas. Se caracterizan por tener válvulas endoteliales, que son pliegues de la túnica íntima, formadas principalmente por endotelio y una fina capa de tejido conectivo fibroelástico que previenen el reflujo de la sangre."
           ],
-          "image": [
-            "venas arterias-04.png",
-            "venas arterias-05.png"
-          ]
+          "image": ["venas_arterias-04.png", "venas_arterias-05.png"]
         },
         {
           "id": "venulas",
@@ -63,7 +58,7 @@
           "content": [
             "Las vénulas poseen únicamente endotelio y pericitos; su túnica media es muy escasa. Estas estructuras no presentan válvulas y drenan en venas de mayor calibre."
           ],
-          "image": "venas arterias-06.png"
+          "image": ["venas_arterias-06.png"]
         },
         {
           "id": "tipos-vasos",
@@ -71,7 +66,7 @@
           "content": [
             "Clasificación estructural y funcional de los vasos sanguíneos según sus características anatómicas:"
           ],
-          "image": "Tipo de vasos.png"
+          "image": ["tipo_de_vasos.png"]
         }
       ]
     },
@@ -91,10 +86,10 @@
           ],
           "items": [
             "Falsos aneurismas: también conocidos como seudoaneurismas, se presentan cuando existe una ruptura parcial del vaso sanguíneo, pero la sangre queda contenida por los tejidos que lo rodean.",
-            "Aneurismas disecantes: reciben este nombre porque ocurre una separación de las capas  internas del vaso, lo que obstruye el flujo sanguíneo y forma un canal dentro de la pared del vaso del mismo.",
+            "Aneurismas disecantes: reciben este nombre porque ocurre una separación de las capas internas del vaso, lo que obstruye el flujo sanguíneo y forma un canal dentro de la pared del vaso.",
             "Aneurismas verdaderos: afectan a todas las capas del vaso sanguíneo (íntima, media y adventicia)."
           ],
-          "image": "ANEURISA.jpg"
+          "image": ["aneurisma.jpg"]
         },
         {
           "id": "localizaciones-aneurismas",
@@ -102,18 +97,14 @@
           "content": [
             "Los aneurismas pueden presentarse en diferentes localizaciones del sistema vascular, cada una con sus características particulares y factores de riesgo asociados."
           ],
-          "image": [
-            "aneurismas_01.jpg",
-            "aneurismas_02.jpg",
-            "localizacion aneurismas.png"
-          ]
+          "image": ["aneurismas_01.jpg", "aneurismas_02.jpg", "localizacion_aneurismas.png"]
         }
       ]
     },
     {
       "id": "ateroma",
       "title": "Placa de Ateroma",
-      "description": "Lesión característica de la ateroesclerosis",
+      "description": "Lesión característica de la ateroesclerosis.",
       "sections": [
         {
           "id": "introduccion",
@@ -130,7 +121,7 @@
           "content": [
             "La placa de ateroma puede desarrollarse en diferentes localizaciones arteriales, siendo más frecuente en arterias coronarias, carótidas, cerebrales y de extremidades inferiores."
           ],
-          "image": "localizacion aneurismas.png"
+          "image": ["localizacion_aneurismas.png"]
         },
         {
           "id": "fisiopatologia",
@@ -188,7 +179,7 @@
             "Placa estable: cápsula gruesa, crecimiento lento.",
             "Placa inestable: cápsula delgada, riesgo de ruptura y trombosis (puede causar infarto o accidente cerebrovascular)."
           ],
-          "image": "placa estable.png"
+          "image": ["placa_estable.png"]
         },
         {
           "id": "fisio",
@@ -196,9 +187,7 @@
           "content": [
             "Resumen gráfico del proceso fisiopatológico completo de la formación de la placa de ateroma."
           ],
-          "image": [
-            "fisiopatologia.png"
-          ]
+          "image": ["fisiopatologia.png"]
         },
         {
           "id": "aterosclerosis",
@@ -207,16 +196,16 @@
             "Visualización microscópica de las diferentes etapas del desarrollo de la placa de ateroma en arterias."
           ],
           "image": [
-            "venas arterias-07.png",
-            "venas arterias-12.png",
-            "venas arterias-08.png",
-            "venas arterias-13.png",
-            "venas arterias-09.png",
-            "venas arterias-14.png",
-            "venas arterias-10.png",
-            "venas arterias-15.png",
-            "venas arterias-11.png",
-            "venas arterias-16.png"
+            "venas_arterias-07.png",
+            "venas_arterias-12.png",
+            "venas_arterias-08.png",
+            "venas_arterias-13.png",
+            "venas_arterias-09.png",
+            "venas_arterias-14.png",
+            "venas_arterias-10.png",
+            "venas_arterias-15.png",
+            "venas_arterias-11.png",
+            "venas_arterias-16.png"
           ]
         }
       ]
@@ -272,23 +261,9 @@
             "Estudios actualizados",
             "Más contenido educativo"
           ],
-          "image": "Investigando.gif"
+          "image": ["investigando.gif"]
         }
       ]
     }
-
-
-
-
-
-
-
-
-
-    
-  ]}
-
-
-
-
-
+  ]
+}
