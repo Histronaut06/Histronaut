@@ -9,9 +9,7 @@
           "id": "introduccion",
           "title": "Introducción",
           "content": [
-            "Conocer la histología de los vasos sanguíneos es indispensable para comprender la estructura y su función. Dominar estos conceptos permite identificar patologías frecuentes de los vasos sanguíneos, tales como la formación de una placa de ateroma y aneurismas.",
-            "El propósito de este recurso digital es permitir a los estudiantes visualizar y distinguir la histología principal de arterias, venas, arteriolas, vénulas y lesiones vasculares de gran importancia.",
-            "Los vasos sanguíneos se componen de 3 capas:"
+            "Conocer la histología de los vasos sanguíneos es indispensable para comprender la estructura y su función. Dominar estos conceptos permite identificar patologías frecuentes de los vasos sanguíneos, tales como la formación de una placa de ateroma y aneurismas. \nEl propósito de este recurso digital es permitir a los estudiantes visualizar y distinguir la histología principal de arterias, venas, arteriolas, vénulas y lesiones vasculares de gran importancia. \nLos vasos sanguíneos se componen de 3 capas:"
           ],
           "items": [
             "Túnica íntima",
@@ -268,7 +266,7 @@
             "Continuamos investigando y recopilando información para ampliar nuestro sitio web."
           ],
           "items": [
-            "Nuevas variantes anatómicas",
+            "Nuevas patologías",
             "Estudios actualizados",
             "Más contenido educativo"
           ],
@@ -287,6 +285,7 @@
 
     
   ]}
+
 
 
 
